@@ -1,23 +1,23 @@
 ## Proxmox VE API URL
-variable "pm_api_url" {
+variable "PM_API_URL" {
   type        = string
   description = "Proxmox VE Machines URL"
 }
 
 ## Proxmox VE APT Token ID
-variable "pm_api_token_id" {
+variable "PM_API_TOKEN_ID" {
   type        = string
   description = "Proxmox VE Token ID"
 }
 
 ## Proxmox VE API Token Secret
-variable "pm_api_token_secret" {
+variable "PM_API_TOKEN_SECRET" {
   type        = string
   description = "Proxmox VE Token Secret"
 }
 
 ## Proxmox VE TLS Configuration
-variable "pm_tls_insecure" {
+variable "PM_TLS_INSECURE" {
   type        = string
   description = "Proxmox VE TLS Configuration"
 }
