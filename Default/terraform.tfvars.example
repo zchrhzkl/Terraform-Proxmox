@@ -1,0 +1,18 @@
+pm_api_url = "https://x.x.x.x:8006/api2/json"
+
+pm_api_token_id = ""
+
+pm_api_token_secret = ""
+
+pm_tls_insecure = "true"
+
+proxmox_host = "pve01"
+
+template_name = ""
+
+ciuser= ""
+
+cipassword= ""
+
+ssh_key = ""
+
